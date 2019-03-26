@@ -1,0 +1,2 @@
+# assets
+websites static files
